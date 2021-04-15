@@ -5,3 +5,5 @@ Pillow
 https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
 tgcrypto
 youtube-dl
+python-dotenv>=0.10
+python-magic
